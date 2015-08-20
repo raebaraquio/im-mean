@@ -1,0 +1,25 @@
+INSTALLATION
+
+References:
+https://hackhands.com/how-to-get-started-on-the-mean-stack/
+https://hackhands.com/delving-node-js-express-web-framework/
+https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/
+
+Not so much:
+https://hackhands.com/finishing-Angular-TODO-application-deploying-production/
+
+install node js
+--------------
+
+install mongodb
+how to: 
+https://hackhands.com/how-to-get-started-on-the-mean-stack/
+or
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+--------------
+
+npm install (gets what's in package json)
+
+create .bowerrc to config the installation directory for angular libraries or js libs
+
+bower install (gets what's in bower.json) -- for angular files

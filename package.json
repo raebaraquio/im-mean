@@ -1,0 +1,17 @@
+{
+  "name": "im-mean",
+  "version": "1.0.0",
+  "description": "MEAN App Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Thea Baraquio",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3"
+  }
+}
